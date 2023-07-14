@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="welcome_to_tictactoe_txt">Welcome to TicTacToe</string>
+    <string name="o_txt">o</string>
+    <string name="x_txt">x</string>
+    <string name="text_txt">text</string>
+</resources>
